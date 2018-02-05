@@ -57,6 +57,11 @@ for (i in 1:length(all_ds)) {
     
     counter$good <- na.omit(c(counter$good, ds_id))
     
+    if(!'index_files' %in% list.files()) {
+      dir.create('./index_files')
+      file.copy(paste0("./", ds_id, "/index_files"), "index_files", recursive=TRUE)
+    }
+    
     # Remove the files for the js. . . 
     unlink(paste0(end_point, '/', ds_id, '/index_files'), 
            force = TRUE, recursive = TRUE)
