@@ -12,7 +12,7 @@ library(dplyr)
 
 validate_dois <- function(x) {
   
-  if (is.null(curl::nslookup("https://search.datacite.org/", error = FALSE))) {
+  if (is.null(curl::nslookup("search.datacite.org", error = FALSE))) {
     stop('No DataCite connection detected.')
   }
   
