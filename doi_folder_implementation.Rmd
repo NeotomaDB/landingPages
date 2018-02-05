@@ -103,5 +103,3 @@ The landing pages contain dynamic elements, including leaflet maps that can be n
 ## Future Steps
 
 Ideally this platform will move to a more dynamic system that interacts directly with the database in an ongoing manner.
-
-
