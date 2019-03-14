@@ -1,3 +1,7 @@
+https://img.shields.io/badge/status-deprecated-red.svg
+
+**Note:** *This project is now deprecated and has been superceeded by a new Landing Pages project hosted at [https://github.com/NeotomaDB/ndbLandingPage]().  The new project uses nodejs/Vuejs to help reduce total overhead and to provide an opportunity for more dynamic delivery of content.*
+
 # landingPages
 
 A repository specifically for generating RMarkdown landing pages for Neotoma Datasets
