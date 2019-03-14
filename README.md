@@ -2,6 +2,8 @@
 
 A repository specifically for generating RMarkdown landing pages for Neotoma Datasets
 
+**NOTE:** This project is deprecated and has been superceeded by the Neotoma [ndbLandingPage](https://github.com/NeotomaDB/ndbLandingPage) project, which is currently under active development.
+
 ## Description
 
 Each Neotoma dataset describes the site, site location and the data type found within the full data record.  The landing pages act as a link between the raw JSON or CSV formatted data and the DOI link for that dataset.  The also contain machine-readable JSON-LD text that can be used to help index pages within search engines or other online tools.
