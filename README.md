@@ -5,13 +5,12 @@
 <!-- badges: end -->
 
 
-**Note:** *This project is now deprecated and has been superceeded by a new Landing Pages project hosted at [https://github.com/NeotomaDB/ndbLandingPage]().  The new project uses nodejs/Vuejs to help reduce total overhead and to provide an opportunity for more dynamic delivery of content.*
+**Note:** *This project is now deprecated and has been superceeded by a new Landing Pages project hosted at [https://github.com/NeotomaDB/landingpagev3]().  The new project uses nodejs/Vuejs to help reduce total overhead and to provide an opportunity for more dynamic delivery of content.*
 
 # landingPages
 
 A repository specifically for generating RMarkdown landing pages for Neotoma Datasets
 
-**NOTE:** This project is deprecated and has been superceeded by the Neotoma [ndbLandingPage](https://github.com/NeotomaDB/ndbLandingPage) project, which is currently under active development.
 
 ## Description
 
